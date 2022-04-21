@@ -3,6 +3,7 @@
     <string name="temperature" >Temperature</string>
     <string name="distances">Distances</string>
     <string name="spoon">spoon</string>
+    <string name="spoontable">ช้อนโต๊ะ</string>
     <string name="placeholder">temperature</string>
     <string name="placeholder_distance">distance</string>
     <string name="placeholder_spoon">Table Spoon</string>
@@ -14,7 +15,7 @@
     <string name="meter">m</string>
     <string name="mile">mi</string>
 
-    <string name="table">tablespoon</string>
-    <string name="gram">gram</string>
+    <string name="table">ช้อนโต๊ะ</string>
+    <string name="gram">กรัม</string>
     <string name="weight" />
 </resources>
